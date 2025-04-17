@@ -1,0 +1,6 @@
+primary color = #0FF1F6
+secbg = #07292F
+gray = #002228
+cyan = #0FF1F6
+
+shouldHideOnScroll = nicar dika scroll korla nav hide hoya jabe
