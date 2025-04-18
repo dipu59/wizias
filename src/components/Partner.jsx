@@ -2,11 +2,11 @@ import React from "react";
 
 function Partner() {
   const Image = [
-    { path: "../../public/blackhub.png", alt: "Blackhub" },
-    { path: "../../public/cable.png", alt: "Cable" },
-    { path: "../../public/dbs.png", alt: "DBS" },
-    { path: "../../public/easy.png", alt: "EASY" },
-    { path: "../../public/amd.png", alt: "AMD" },
+    { path: "/blackhub.png", alt: "Blackhub" },
+    { path: "/cable.png", alt: "Cable" },
+    { path: "/dbs.png", alt: "DBS" },
+    { path: "/easy.png", alt: "EASY" },
+    { path: "/amd.png", alt: "AMD" },
   ];
   return (
     <main className="bg-secbg">

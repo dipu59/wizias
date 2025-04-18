@@ -5,7 +5,7 @@ import { SquareArrowOutUpRight } from "lucide-react";
 function HeroSection() {
   return (
     <main>
-      <div className='md:bg-[url("section1.png")] bg-[url("Img.png")] object-cover h-[480px]  md:h-[573px] flex pt-16 md:pt-0  md:items-center justify-center md:justify-normal'>
+      <div className='md:bg-[url("/section1.png")] bg-[url("/Img.png")] object-cover h-[480px]  md:h-[573px] flex pt-16 md:pt-0  md:items-center justify-center md:justify-normal'>
         <div className="text-center md:text-left space-y-3 md:ml-20  ">
           <div>
             <h3 className="text-primary text-lg md:text-xl tracking-wide md:tracking-wider ">
