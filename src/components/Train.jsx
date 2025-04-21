@@ -9,8 +9,8 @@ function Train() {
     ]
 
   return (
-      <main className=''>
-          <div className=' bg-[url(/section14.png)] bg-no-repeat bg-cover  md:w-[740px] w-[327px] lg:w-[1300px] rounded-3xl  my-10 mx-auto h-[405px] md:h-[500px]  flex  items-center md:justify-center px-6'>
+      <main className='min-w-[327px] max-w-[1300px] mx-auto px-6'>
+          <div className=' bg-[url(/section14.png)] bg-no-repeat bg-cover   rounded-3xl  my-10 mx-auto h-[405px] md:h-[500px]  flex  items-center md:justify-center px-6'>
               
               <div className=''>
               <h1 className='font-heading md:text-3xl w-[279px] md:w-[410px] mb-2 text-2xl px-3 font-semibold text-white'>Train your aiDR on your...</h1>

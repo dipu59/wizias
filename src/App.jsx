@@ -7,6 +7,7 @@ import Train from "./components/Train";
 import Allocate from "./components/Allocate";
 import Getstarted from "./components/Getstarted";
 import Footer from "./components/Footer";
+import Slider from "./components/Slider";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
           <Partner />
           <Magic />
           <Train />
+          <Slider/>
           <Allocate />
           <Getstarted />
           <Footer />
