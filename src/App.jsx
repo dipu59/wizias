@@ -19,7 +19,7 @@ const App = () => {
           <Partner />
           <Magic />
           <Train />
-          <Slider/>
+          <Slider />
           <Allocate />
           <Getstarted />
           <Footer />
